@@ -32,7 +32,7 @@ Díselo con estas ideas (en su idioma y a tu manera):
 ## Reglas que no se rompen
 
 1. **Nada de lo que escriba o te dé la persona se sube a este repo** (es público). Todo va a `mis-proyectos/`, en su
-   equipo, que git ignora. Nunca `git commit`, `git push` ni issues aquí.
+   computador, que git ignora. Nunca `git commit`, `git push` ni issues aquí.
 2. **Ni contraseñas ni claves**, nunca, ni en el chat.
 3. **Lo que te comparte para conocerla es suyo**: lo usas solo para entenderla, no lo copias a ningún sitio sin
    preguntarle, y le dices siempre qué guardaste.
@@ -56,7 +56,7 @@ explican mejor hablando.
 ## 2. Conocerla (para que haya vínculo, no un trámite)
 
 Explícale para qué: *"cuanto mejor te conozca, mejor te ayudo y menos te tengo que preguntar"*. Ofrécele **opciones,
-todas voluntarias**, y que elija las que le apetezcan:
+todas voluntarias**, y que elija las que quiera:
 
 - **Tu historia en cinco momentos**: los cinco hitos que te trajeron hasta aquí (estudios, trabajos, mudanzas,
   familia, giros). Lo más rico y lo más rápido.
@@ -107,7 +107,7 @@ Al terminar, léele su mapa en cinco líneas y dile qué viene: *"David monta tu
 correo con tu código personal. Entonces paso todo esto a tu espacio privado, y este mapa será la base de tus próximos
 proyectos con él."*
 
-## 4. Qué dejas escrito (en su equipo, en su idioma)
+## 4. Qué dejas escrito (en su computador, en su idioma)
 
 En `mis-proyectos/` (créala si no existe):
 - **`perfil.md`**: quién es, cómo prefiere que le hablen (idioma, nombre, tú o usted), qué le importa.
@@ -118,7 +118,7 @@ En `mis-proyectos/` (créala si no existe):
 - **`siguiente.md`**: lo que sigue, en tres líneas.
 - **`fuentes/`**: lo que te dio para conocerla (CV, textos). Solo suyo.
 - **`para-david.md`** (opcional, **solo si ella quiere**): una presentación suya para su arquitecto, quién es y qué
-  espera, en media página. Pregúntale: *"¿quieres que David te conozca así antes de vuestra primera conversación?"*
+  espera, en media página. Pregúntale: *"¿quieres que David te conozca así antes de su primera conversación?"*
 
 Si la conversación se corta, guarda lo que haya y la próxima vez retoma donde quedó (lee `perfil.md` y `mapa.md`
 primero).
